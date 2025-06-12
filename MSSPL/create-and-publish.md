@@ -42,9 +42,9 @@ In this task, you will open a Power BI report, enable map visuals, adjust the mo
 
       ![](../Images/pr35.png) 
 
-1. Highlight the **MARKET ANALYSIS (1)** title and change the text color to **black (2)**.
+1. Highlight the **MARKET ANALYSIS (1)** title and select the **Font Color(2)** change the text color to **black (3)**.
 
-   ![](../Images/pr2.png) 
+   ![](../Images/120625(1.1).png) 
 
 1. Click the **View (1)** ribbon and then click **Mobile layout (2)**.
 
@@ -62,13 +62,13 @@ In this task, you will open a Power BI report, enable map visuals, adjust the mo
 
    >**Note:** If you receive any pop-up, click on **Close**.
 
-1. Click on the **View (1)** tab and turn on  the **Selection (2)** pane by clicking on it. This allows you to change the layer order while creating a mobile layout.
+1. Click on the **View (1)** tab and turn on  the **Selection (2)** pane by clicking on it. This allows a bar **Selection (3)** you to change the layer order while creating a mobile layout.
 
-   ![](../Images/pr6.png)
+   ![](../Images/120625(2).png)
 
-1. Click on the **View (1)** tab and turn off **Gridlines** and **Snap to Grid** **(2)** and turn off  the **Selection pane (3)**.
+1. Click on the **View (1)** tab and turn off **Gridlines** and **Snap to Grid** **(2)** and turn off  the **Selection pane (3)** and you will notice that grid lines are disable in **mobile view (4)**.
 
-   ![](../Images/pr7.png)
+   ![](../Images/120625(3).png)
 
 1. Drag the **Revenue by Year and Manufacturer** line chart below the card on the phone layout. Resize the line chart to stretch across the phone layout.
 
@@ -82,11 +82,11 @@ In this task, you will open a Power BI report, enable map visuals, adjust the mo
 
    ![](../Images/pb16.png)
 
-1. If you have not already opened the **app.powerbi.com** page, please open a browser and navigate to [https://app.powerbi.com](https://app.powerbi.com/)
+1. Navigate to **app.powerbi.com** page, using this link [https://app.powerbi.com](https://app.powerbi.com/)
 
-1. In the left panel, click on **Workspaces**.
+1. In the left panel, click on **Workspaces (1)** and select **+ New workspace (2)**.
    
-    ![](../Images/new-create-publish-powerbi-march-6.png)
+    ![](../Images/120625(4).png)
 
 1. Click on **+ New workspace**. Then *Create a workspace* dialog box opens.
 
@@ -102,9 +102,10 @@ In this task, you will open a Power BI report, enable map visuals, adjust the mo
 
     - Click **Upload (3)**.
 
-      ![](../Images/pr4.png)
+    - From the toolbar, open **File Explorer** and go to `C:\DIAD\DIADL4\Data` in the LabVM.
+    
+    -  Select **VanArsdel_WSLogo (1)** file and click **Open (2)**
 
-    - A file browser dialog box opens. Browse to the **DIAD** folder and then the **Data** folder `C:\DIAD\DIADL4\Data` Select **VanArsdel_WSLogo (1)** file and click **Open (2)**
 
       ![](../Images/pr8.png)
 
@@ -140,7 +141,7 @@ In this task, you will open a Power BI report, enable map visuals, adjust the mo
   
 1. Click **Got it** to close the dialog box.
 
-    ![02](../Images/6.png)
+    ![02](../Images/120625(5).png)
 
     >**Note:** Now that we have published the report to the Power BI service, let’s navigate back to the browser and start exploring. 
     
@@ -188,6 +189,8 @@ By the end of this section, we will have created a dashboard that looks like the
 
     ![](../Images/pb30.png)
   
+    ![](../Images/120625(7).png)
+    >**Note**: The pop comes like mentioned above select **got it**
 1. From workspace, click on **VanArsdel (1)** and then click **VanArsdel Market Share (2)**.
 
     ![](../Images/pr14.png)
